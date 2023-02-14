@@ -1,2 +1,2 @@
 # improv-scenes
-This app generates characters, actions, and settings as a starting point for an improvisational comedy scene
+This app generates characters, an action, and a setting to provide a starting point for an improvisational comedy scene
