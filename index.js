@@ -1,5 +1,5 @@
 import { personArray, settingArray, actionArray } from "./data.js" 
-import { handleIncrement, handleDecrement, generateRandomItem, numberOfParticipants } from "./utils.js"
+import { handleIncrement, handleDecrement, generateRandomItem, numberOfParticipants, participants } from "./utils.js"
 
 let selectedPersonArray = []
 let containerHtml = ""
